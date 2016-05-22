@@ -1,0 +1,13 @@
+Real Time Audio Processing with Dynamic Visualization
+
+Raspberry Pi: 
+    -Spotify Player
+    -PulseAudio
+    -Bluetooth
+    -Python music processing script
+    -I2C communication
+
+
+Arduino:
+    -I2C input
+    -Change light display on I2C input
